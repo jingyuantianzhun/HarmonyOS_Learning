@@ -1,0 +1,43 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Play",
+      "srcPath": "./features/Play"
+    },
+    {
+      "name": "Find",
+      "srcPath": "./features/Find"
+    },
+    {
+      "name": "dyanmic",
+      "srcPath": "./features/Dyanmic"
+    },
+    {
+      "name": "User",
+      "srcPath": "./features/User"
+    }
+  ]
+}

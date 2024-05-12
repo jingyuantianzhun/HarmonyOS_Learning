@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/UserIndex",
+    "pages/TestPage",
+    "pages/RecentPage",
+    "pages/LocalPage",
+    "pages/ColudDisksPage",
+    "pages/BuyPage",
+    "pages/PlayPage"
+  ]
+}

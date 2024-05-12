@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "Find",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

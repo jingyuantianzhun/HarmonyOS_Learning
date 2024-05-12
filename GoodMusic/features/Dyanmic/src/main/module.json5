@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "dyanmic",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
