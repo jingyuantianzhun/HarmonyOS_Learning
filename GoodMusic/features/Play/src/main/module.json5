@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "Play",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

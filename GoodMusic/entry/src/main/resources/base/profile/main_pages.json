@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/HomePage",
+    "pages/RecommendDayPage",
+    "pages/PlayComponent",
+    "pages/RecentPage",
+    "pages/BuyPage",
+    "pages/LocalPage",
+    "pages/ColudDisksPage",
+    "pages/PlayPage",
+    "pages/AppPanelIndex",
+    "pages/LoginPage"
+  ]
+}

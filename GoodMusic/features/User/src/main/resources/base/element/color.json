@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_db",
+      "value": "#dbdbdb"
+    },
+    {
+      "name": "color_white",
+      "value": "#F8F3F0"
+    },
+    {
+      "name": "color_shenGray",
+      "value": "#DCC1B9"
+    },
+    {
+      "name": "background_red",
+      "value": "#ff99361a"
+    },
+    {
+      "name": "swiper_gray",
+      "value": "#9499A3"
+    }
+  ]
+}
